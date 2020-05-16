@@ -1,4 +1,4 @@
-## Basic Network Config using TLS
+## Basic Network Config
 
 This project is for hyperledger fabric study.
 
