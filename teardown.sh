@@ -20,4 +20,6 @@ rm -rf ./data
 docker rm $(docker ps -aq)
 # docker rmi $(docker images -a -q)
 
+docker volume prune
+y
 # Your system is now clean

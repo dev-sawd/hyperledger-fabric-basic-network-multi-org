@@ -1,13 +1,18 @@
-## Basic Network Config
+## Basic Network Config with Multi Org
 
 This project is for hyperledger fabric study.
 
 ### docker list
 - ca.org1.example.com
+- ca.org2.example.com
 - peer0.org1.example.com
 - peer1.org1.example.com
+- peer0.org2.example.com
+- peer1.org2.example.com
 - couchdb
 - couchdb2
+- couchdb3
+- couchdb4
 - orderer.example.com
 - orderer2.example.com
 - orderer3.example.com
